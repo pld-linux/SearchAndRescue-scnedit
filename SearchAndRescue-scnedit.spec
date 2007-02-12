@@ -1,5 +1,5 @@
 Summary:	Search And Rescue scenery editor
-Summary(pl):	Edytor scenerii gry Search And Rescue
+Summary(pl.UTF-8):   Edytor scenerii gry Search And Rescue
 Name:		SearchAndRescue-scnedit
 %define	rname	scnedit
 Version:	0.0.2
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Scenery Editor (scnedit) allows you to edit the scenery files (.scn
 files) for the game Search and Rescue.
 
-%description -l pl
-Scenery Editor (scnedit) pozwala na edycjê plików scenerii (.scn) dla
+%description -l pl.UTF-8
+Scenery Editor (scnedit) pozwala na edycjÄ™ plikÃ³w scenerii (.scn) dla
 gry Search And Rescue.
 
 %prep
