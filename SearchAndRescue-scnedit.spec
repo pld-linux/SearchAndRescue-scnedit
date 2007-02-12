@@ -1,5 +1,5 @@
 Summary:	Search And Rescue scenery editor
-Summary(pl.UTF-8):   Edytor scenerii gry Search And Rescue
+Summary(pl.UTF-8):	Edytor scenerii gry Search And Rescue
 Name:		SearchAndRescue-scnedit
 %define	rname	scnedit
 Version:	0.0.2
